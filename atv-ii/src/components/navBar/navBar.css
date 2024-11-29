@@ -1,0 +1,14 @@
+.downArrowButton{
+    background-color: transparent;
+    border: none;
+    transition: transform 0.3s ease;
+  }
+  
+  .downArrow{
+    width: 25px;
+    transition: transform 0.3s ease;
+  }
+  
+  .downArrowRotation{
+    transform: rotate(180deg);
+  }
